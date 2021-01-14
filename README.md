@@ -1,7 +1,7 @@
 # Good-Looking
 
 ====== PAGES =====
-1.home
+1.home === DONE
 2.find
 3.detail
 4.profile
